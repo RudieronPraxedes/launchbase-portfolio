@@ -19,7 +19,7 @@ body   {
 
 h1{
     text-align :center;
-    margin-top:5%;
+    margin-top:3%;
     margin-bottom:3%;
 }
 header  {
@@ -160,4 +160,11 @@ header  {
 .modal-overlay.active{
     opacity:1;
     visibility:visible;
+}
+
+iframe{
+    width:100%;
+    height:90%;
+    position:absolute;
+    top:5%;
 }
